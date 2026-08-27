@@ -3,3 +3,7 @@
 #first change to this file
 
 print("Hello, this is the first file!")
+
+# this is change to our code
+
+print("i love merging and branching")
